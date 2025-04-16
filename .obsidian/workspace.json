@@ -185,12 +185,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fdf2f1f39212c4e7",
+  "active": "30d6a9f12494c78a",
   "lastOpenFiles": [
+    "4-向量数据库选择.md",
+    "5-相似度与返回策略.md",
+    "6-RAG系统性能评估.md",
+    "7-论文研读-Survey.md",
+    "2-数据预处理.md",
     "3-文本块向量化.md",
     "未命名.canvas",
-    "2-数据预处理.md",
-    "2025-03-11.md",
-    "4-向量数据库选择.md"
+    "2025-03-11.md"
   ]
 }
