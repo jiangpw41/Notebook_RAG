@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "30d6a9f12494c78a",
+            "id": "26a30980ca553e0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-文本块向量化.md",
+                "file": "embedding模型/MiniLM论文阅读.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3-文本块向量化"
+              "title": "MiniLM论文阅读"
             }
           }
         ]
@@ -142,13 +142,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-文本块向量化.md",
+                "file": "embedding模型/MiniLM论文阅读.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3-文本块向量化 的大纲"
+              "title": "MiniLM论文阅读 的大纲"
+            }
+          },
+          {
+            "id": "2bebd726a64b88f3",
+            "type": "leaf",
+            "state": {
+              "type": "note-to-red",
+              "state": {},
+              "icon": "image",
+              "title": "小红书预览"
             }
           }
         ],
@@ -172,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,17 +192,38 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "30d6a9f12494c78a",
+  "active": "26a30980ca553e0c",
   "lastOpenFiles": [
+    "embedding模型/Unixcoder.md",
+    "images/Unixcoder-tree.png",
+    "images/MiniLM_layers.png",
+    "images/Unixcoder_AST.png",
+    "embedding模型/BERT.md",
+    "images/BERT输入表示.png",
+    "images/BERT.png",
+    "images/BERT架构.png",
+    "images/BERT架构_副本.png",
+    "images/BERT输入表示_副本.png",
+    "images/BERT_副本.png",
+    "embedding模型/概述.md",
+    "embedding模型/all-MiniLM-L6-v2.md",
+    "embedding模型/truncation逻辑.md",
+    "embedding模型/MiniLM论文阅读.md",
+    "embedding模型/MiniLM论文阅读_副本.md",
+    "embedding模型/all-MiniLM-L6-v2模型_副本.md",
+    "images/MiniLM-compare.png",
+    "2-数据预处理.md",
+    "embedding模型",
+    "3-文本块向量化.md",
+    "1-概述.md",
     "4-向量数据库选择.md",
     "5-相似度与返回策略.md",
     "6-RAG系统性能评估.md",
     "7-论文研读-Survey.md",
-    "2-数据预处理.md",
-    "3-文本块向量化.md",
     "未命名.canvas",
     "2025-03-11.md"
   ]
