@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "929a5c7294386533",
+        "id": "c2c8fa82e67b1a0b",
         "type": "tabs",
         "children": [
           {
-            "id": "26a30980ca553e0c",
+            "id": "3d71967002a0aaa8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "embedding模型/MiniLM论文阅读.md",
+                "file": "embedding模型/Unixcoder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MiniLM论文阅读"
+              "title": "Unixcoder"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "embedding模型/MiniLM论文阅读.md",
+                "file": "embedding模型/Unixcoder.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "MiniLM论文阅读 的大纲"
+              "title": "Unixcoder 的大纲"
             }
           },
           {
@@ -196,26 +196,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "26a30980ca553e0c",
+  "active": "3d71967002a0aaa8",
   "lastOpenFiles": [
     "embedding模型/Unixcoder.md",
+    "images/unxcoder-对比学习.png",
+    "images/unixcoder-att.png",
+    "images/Unixcoder_架构.png",
+    "embedding模型/概述.md",
     "images/Unixcoder-tree.png",
+    "embedding模型/BERT.md",
+    "images/BERT.png",
+    "embedding模型/MiniLM论文阅读.md",
     "images/MiniLM_layers.png",
     "images/Unixcoder_AST.png",
-    "embedding模型/BERT.md",
     "images/BERT输入表示.png",
-    "images/BERT.png",
     "images/BERT架构.png",
     "images/BERT架构_副本.png",
-    "images/BERT输入表示_副本.png",
-    "images/BERT_副本.png",
-    "embedding模型/概述.md",
     "embedding模型/all-MiniLM-L6-v2.md",
     "embedding模型/truncation逻辑.md",
-    "embedding模型/MiniLM论文阅读.md",
     "embedding模型/MiniLM论文阅读_副本.md",
     "embedding模型/all-MiniLM-L6-v2模型_副本.md",
-    "images/MiniLM-compare.png",
     "2-数据预处理.md",
     "embedding模型",
     "3-文本块向量化.md",
